@@ -259,7 +259,15 @@
                                                         <p><strong>Get to the Point: How to Identify, Sharpen, and Champion Your Most Important Ideas</strong><br>
                                                             Joel Schwartenberg<br>
                                                             Presentation Coach</p>
-                                                        <p>Many people—from salespeople to CEOS—give speeches and presentations, but few make meaningful points. Why? Because most communicators don’t know their points. They don’t even know what a point is, often confusing it with a topic, theme, or title. Real points are arguments that explicitly propose avenues leading to valuable impact. Not having a real point renders a communication pointless and being pointless is by far the biggest cause of rambling, audience disconnection, and communication epic fail. This presentation provides actionable tips, insight, and exercises that help professionals identify and effectively convey their key points in speeches, meetings, and over email.</p>
+                                                        <p>Many professionals—from students to salespeople to CEOs—deliver speeches, share presentations, and contribute ideas, but few make truly meaningful points. Why? Because speakers often confuse sharp points with broad topics, themes, categories, and titles. Not identifying clear points renders a communicator pointless, which is the biggest cause of rambling, audience disengagement, and client disconnection. Employing humor and audience participation, this unique presentation provides actionable tips, exercises, and practice opportunities that help professionals not just become stronger public speakers but more effectively champion their points, whether selling products, services, or ideas.</p>
+                                                        <ul style="list-style: disc;">
+                                                            <li>How to identify, sharpen, and effectively sell a point</li>
+                                                            <li>How to use “Power Periods,” volume, and pauses to enhance points</li>
+                                                            <li>How to convey points more effectively in video meetings and PowerPoint presentations</li>
+                                                            <li>How to start and finish with confidence and impact</li>
+                                                            <li>How to tell stories in a way that helps deliver points, not distract from them</li>
+                                                            <li>How to overcome public speaking anxiety</li>
+                                                        </ul>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -845,6 +853,20 @@
                                         <p>Chris Lorence is executive director of CU Awareness, LLC, a wholly owned subsidiary of the Credit Union National Association (CUNA). Lorence raises consumer consideration and membership opportunities for credit unions through the nation’s only digital consumer engagement program.</p>
 
                                         <p>Lorence brings more than twenty-five years of leadership, marketing, engagement, and innovation strategy to Credit Union Awareness. </p>
+
+                                    </div>
+                                </div>
+
+                                <div class="accordion_in two">
+                                    <div class="acc_head">Joel Schwartzberg</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/Joel.jpg" alt="Joel Schwartzberg" width="auto" height="210"><br>
+                                            <strong>Presentation Coach</strong>
+                                        </p>
+
+                                        <p>Joel Schwartzberg is the Senior Director of Strategic and Executive Communications for a major nonprofit in New York City and also teaches communication and presentation skills to clients including American Express, State Farm Insurance, Blue Cross Blue Shield, Comedy Central, and the Brennan Center for Justice. Joel’s books include “The Language of Leadership: How to Engage and Inspire Your Team” and “Get to the Point! Sharpen Your Message and Make Your Words Matter” and his articles appear in Harvard Business Review, Fast Company, CNBC, Inc.com, and Toastmaster Magazine. A frequent conference presenter and workshop leader, Joel is also a former national champion public speaker and collegiate speech coach.</p>
+                                        </p>
 
                                     </div>
                                 </div>
