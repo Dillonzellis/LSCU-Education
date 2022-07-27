@@ -386,7 +386,7 @@
                                                     <td>1:30 p.m. - 2:30 p.m.</td>
                                                     <td>
                                                         <p><strong>Breakout Session</strong></p>
-                                                        <p><strong>Relatable Workplace</strong><br>
+                                                        <p><strong>Alabama Credit Union Administration Regulatory Panel</strong><br>
                                                             Greg McClellan<br>
                                                             Administrator, Alabama Credit Union Administration</p>
                                                         <p>Greg McClellan, Administrator, Alabama Credit Union Administration, will give a presentation on current Alabama state regulatory issues for credit unions and take questions from the audience.</p>
