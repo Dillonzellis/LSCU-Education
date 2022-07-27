@@ -22,11 +22,8 @@
     <link rel="shortcut icon" href="../../images/favicon.ico">
 
     <!-- Google fonts - witch you want to use - (rest you can just remove) -->
-    <link
-        href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic'
-        rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet'
-        type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
 
     <!--[if lt IE 9]>
 <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -40,8 +37,7 @@
     <link rel="stylesheet" href="../../css/shortcodes.css" type="text/css" />
     <link rel="stylesheet" href="../../css/font-awesome/css/font-awesome.min.css">
     <link rel="stylesheet" media="screen" href="../../css/responsive-leyouts.css" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../../css/Simple-Line-Icons-Webfont/simple-line-icons.css"
-        media="screen" />
+    <link rel="stylesheet" type="text/css" href="../../css/Simple-Line-Icons-Webfont/simple-line-icons.css" media="screen" />
     <link rel="stylesheet" href="../../js/tabs/assets/css/responsive-tabs.css" />
     <link rel="stylesheet" type="text/css" href="../../js/tabs/assets/css/responsive-tabs.css">
     <link rel="stylesheet" href="../../css/et-line-font/et-line-font.css">
@@ -49,14 +45,14 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12265204-1"></script>
     <script>
-    window.dataLayer = window.dataLayer || [];
+        window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
 
-    gtag('config', 'UA-12265204-1');
+        gtag('config', 'UA-12265204-1');
     </script>
 
 </head>
@@ -140,19 +136,14 @@
                         <p><strong>Alternate Hotel Locations Near the Grand Hotel Resort and Spa in Point Clear,
                                 AL:</strong><br>
                             If you need a hotel room to attend this conference, please consider the following two
-                            options: <a
-                                href="https://www.airbnb.com/a/stays/?c=.pi0.pk36239956_25650614176&ghost=true&gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjVhaTEhkwjU1khVEExnCDTXsc5hJ2qrF8Rrk2tx4z-WD4LBasryppgaAkiAEALw_wcB"
-                                target="_blank">Airbnb</a> and <a
-                                href="https://www.guestreservations.com/holiday-inn-express-fairhope/booking?gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjXfAfugqKtQS4nixZ2q4BAnetoaKhacFhOnwosdpPjhEr6O5X0b9A8aAo3hEALw_wcB"
-                                target="_blank">Holiday Inn Express Fairhope</a>.</p>
+                            options: <a href="https://www.airbnb.com/a/stays/?c=.pi0.pk36239956_25650614176&ghost=true&gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjVhaTEhkwjU1khVEExnCDTXsc5hJ2qrF8Rrk2tx4z-WD4LBasryppgaAkiAEALw_wcB" target="_blank">Airbnb</a> and <a href="https://www.guestreservations.com/holiday-inn-express-fairhope/booking?gclid=Cj0KCQjw4uaUBhC8ARIsANUuDjXfAfugqKtQS4nixZ2q4BAnetoaKhacFhOnwosdpPjhEr6O5X0b9A8aAo3hEALw_wcB" target="_blank">Holiday Inn Express Fairhope</a>.</p>
 
                         <p>Or you may want to check the <a href="https://www.grand1847.com/" target="_blank">Grand’s
                                 online reservations site</a> outside of our block to see if you can secure a room
                             reservation.</p>
 
                         <p><strong>Cancelling Hotel Room Reservations:</strong><br>
-                            <strong>If you have a hotel room reservation you want to cancel, please contact us at <a
-                                    href="mailto:education@lscu.coop">education@lscu.coop</a>.</strong><br>
+                            <strong>If you have a hotel room reservation you want to cancel, please contact us at <a href="mailto:education@lscu.coop">education@lscu.coop</a>.</strong><br>
                             <em>Hotel room reservation can be changed or cancelled up to five days prior to arrival.<br>
                                 For official attendees in the Room Block, the room type and rate will be honored for
                                 three days before and after SCUCE dates - based on availability.</em>
@@ -160,13 +151,11 @@
 
                         <p><strong>Wait List Requests for Hotel Rooms:</strong><br>
                             We would recommend any attendees that need to cancel their existing hotel reservation within
-                            the group block should contact us at <a
-                                href="mailto:education@lscu.coop">education@lscu.coop</a>. We can do our best to try and
+                            the group block should contact us at <a href="mailto:education@lscu.coop">education@lscu.coop</a>. We can do our best to try and
                             help those on the wait list get a hotel room. We cannot guarantee we can assist those with
                             wait list requests to get into this hotel.</p>
 
-                        <p>Please include the following information when reaching out to <a
-                                href="mailto:education@lscu.coop">education@lscu.coop</a>.</p>
+                        <p>Please include the following information when reaching out to <a href="mailto:education@lscu.coop">education@lscu.coop</a>.</p>
 
                         <div class="list-style-2">
                             <div class="icon"><i class="fa fa-angle-right"></i></div>
@@ -212,10 +201,8 @@
                                     <div class="acc_content">
 
                                         <p>Sponsorship opportunities are available for this event under page 21 of our
-                                            <a href="https://www.lscu.coop/about/opportunities.php"
-                                                target="_blank">Sponsorship Kit</a>. For sponsorship inquiries please
-                                            contact <a
-                                                href="mailto:sponsorshipandexhibits@lscu.coop">sponsorshipandexhibits@lscu.coop</a>.
+                                            <a href="https://www.lscu.coop/about/opportunities.php" target="_blank">Sponsorship Kit</a>. For sponsorship inquiries please
+                                            contact <a href="mailto:sponsorshipandexhibits@lscu.coop">sponsorshipandexhibits@lscu.coop</a>.
                                         </p>
                                     </div>
                                 </div>
@@ -332,9 +319,9 @@
                                 <div class="accordion_in two">
                                     <div class="acc_head">Agenda</div>
                                     <div class="acc_content">
-                                        <p align="center"><a class="sh-btn sh-btn-border blue sh-btn-small sh-btn-round"
-                                                style="margin-top: 15px;" href="docs/SRCUS-Booklet.pdf"
-                                                target="_blank">Printable Agenda</a></p>
+                                        <p align="center"><a class="sh-btn sh-btn-border blue sh-btn-small sh-btn-round" style="margin-top: 15px;" href="docs/SRCUS-Booklet.pdf" target="_blank">Printable Agenda</a></p>
+
+
 
                                         <p><strong>Sunday, July 31st</strong></p>
                                         <table class="table table-striped">
@@ -784,18 +771,15 @@
                                 <div class="accordion_in two">
                                     <div class="acc_head">Sponsors</div>
                                     <div class="acc_content">
-                                        <p align="center"><img src="imgs/cm_vert_4c_nounit-640.png" alt="CMG"
-                                                width="216" height="93"></p>
+                                        <p align="center"><img src="imgs/cm_vert_4c_nounit-640.png" alt="CMG" width="216" height="93"></p>
 
                                         <p>&nbsp;</p>
 
-                                        <p align="center"><img src="imgs/warren-averett.png" alt="Warren Averett"
-                                                width="270" height="106"></p>
+                                        <p align="center"><img src="imgs/warren-averett.png" alt="Warren Averett" width="270" height="106"></p>
 
                                         <p>&nbsp;</p>
 
-                                        <p align="center"><img src="imgs/cuacg-logo.png" alt="CUACG" width="250"
-                                                height="47"></p>
+                                        <p align="center"><img src="imgs/cuacg-logo.png" alt="CUACG" width="250" height="47"></p>
 
                                     </div>
                                 </div>
@@ -844,8 +828,7 @@
                                     <div class="acc_head">Samantha Beeler</div>
                                     <div class="acc_content">
 
-                                        <p><img src="imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171"
-                                                height="171"><br>
+                                        <p><img src="imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171" height="171"><br>
                                             <strong>LSCU & Affiliates President</strong>
                                         </p>
 
