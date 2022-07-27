@@ -1024,6 +1024,48 @@
                                     </div>
                                 </div>
 
+                                <!-- <div class="accordion_in two">
+                                    <div class="acc_head">Joel Schwartzberg</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/steve-rick.png" alt="Steven Rick"><br>
+                                            <strong>CUNA Mutual Group<br>Director, Chief Economist</strong>
+                                        </p>
+
+                                        <p>Steven Rick is a director and the chief economist for CUNA Mutual Group in
+                                            Madison, Wisconsin. His primary responsibilities include conducting
+                                            strategic research, analysis, and forecasting of the financial services
+                                            industry with special emphasis on the consumer and credit union markets.</p>
+
+                                        <p>Rick’s forecasts serve as a starting point for the strategic planning process
+                                            and help to create a clear understanding of the underlying trends and links
+                                            between the general economy, the financial services industry, and CUNA
+                                            Mutual Group’s policy owners.</p>
+
+                                        <p>Rick publishes the Credit Union Trends Report, a monthly “pulse check” on the
+                                            economic state of the credit union movement. He has authored a textbook on
+                                            asset-liability management for credit union executives.</p>
+
+                                        <p>Before joining CUNA Mutual Group, Rick was the senior economist for CUNA &
+                                            Affiliate’s Economics & Statistics Department for 22 years. Rick also serves
+                                            as Chairman of the Board of Directors of the University of Wisconsin Credit
+                                            Union, a $2.7 billion financial institution.</p>
+
+                                        <p>Rick holds a senior lecturer position with the Economics Department at the
+                                            University of Wisconsin – Madison where he teaches Money & Banking and
+                                            Macroeconomics courses. He is also the facilitator and instructor for CUNA
+                                            Management School’s Stanford Bank Game, a computerized bank simulation, and
+                                            has 2 years’ experience as a bank simulation advisor for the Prochnow
+                                            Graduate School of Banking.</p>
+
+                                        <p>Rick has a B.A. in Economics from Moorhead State University; a B.S. in
+                                            Finance from Moorhead University; and a M.S. in Economics from the
+                                            University of Wisconsin – Madison. He is also obtained a Ph.D. in Economics
+                                            at the University of Wisconsin – Madison.</p>
+
+                                    </div>
+                                </div> -->
+
                             </div>
                         </div>
                         <!-- Accordion end -->
