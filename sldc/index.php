@@ -387,6 +387,16 @@
                                                     <td>
                                                         <p><strong>Breakout Session</strong></p>
                                                         <p><strong>Relatable Workplace</strong><br>
+                                                            Greg McClellan<br>
+                                                            Administrator, Alabama Credit Union Administration</p>
+                                                        <p>Greg McClellan, Administrator, Alabama Credit Union Administration, will give a presentation on current Alabama state regulatory issues for credit unions and take questions from the audience.</p>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>1:30 p.m. - 2:30 p.m.</td>
+                                                    <td>
+                                                        <p><strong>Breakout Session</strong></p>
+                                                        <p><strong>Relatable Workplace</strong><br>
                                                             Rachel DeAlto<br>
                                                             Relationship and Communications Expert, Media Pedrsonality and Consultant</p>
                                                         <p>Take a deeper dive into what it means to create a relatable workplace. Drawing from Rachel DeAlto’s proprietary personality assessment, attendees will learn their social superpower, their relatability index, and how to use that knowledge to connect more effectively with their teams and members. Creating a relatable workplace is about much more than being friendly or approachable, it’s about fully understanding and customizing your interactions with each person you encounter. This session will assist leaders in enhancing their capacity to connect with people, develop better connections, and establish a more supportive workplace.</p>
@@ -773,6 +783,20 @@
 
                                         <p>In addition to her regular appearances, Rachel has also been featured on a multitude of media outlets including The TODAY Show, Access Hollywood Live, and Fox News. She has also given three TEDx talks including Being Authentic in a Filtered World which is featured on TED.com.</p>
 
+                                    </div>
+                                </div>
+
+                                <div class="accordion_in two">
+                                    <div class="acc_head">Greg McClellan</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/Greg McClellan.jpg" alt="Greg McClellan" width="auto" height="271"><br>
+                                            <strong>Administrator, Alabama Credit Union Administration</strong>
+                                        </p>
+
+                                        <p>Greg McClellan is a native of Alexander City, AL. He holds a BS in General Business and a MBA from Auburn University. He is also a graduate from the School of Banking, Bank Administration Institute, at the University of Wisconsin in Madison, WI. Greg began his career working with a bank holding companies, serving as Chief Internal Auditor and as Vice President of Operations and Personnel.</p>
+
+                                        <p>In 1984, Greg joined MAX Credit Union and served MAX and its members for over 34 years, retiring as CEO in June 2019. After his retirement of one week, Greg entered the position of Administrator of the Alabama Credit Union Administration.</p>
                                     </div>
                                 </div>
 
