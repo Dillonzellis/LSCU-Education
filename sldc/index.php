@@ -335,7 +335,7 @@
                                                         <p><strong>General Session sponsored by Deluxe</strong></p>
                                                         <p><strong>Inspiring a Relatable Workforce</strong><br>
                                                             Rachel DeAlto<br>
-                                                            Relationship and Communications Expert, Media Pedrsonality and Consultant</p>
+                                                            Relationship and Communications Expert, Media Personality and Consultant</p>
 
                                                         <p>Zoomed in. Checked out. Engaging and connecting a far-flung workfplace and is on the top of every company’s to-do list. Or, at least, it should be, because whenever teams feel overwhelmed, underserved, and misunderstood, the wheels start to come off the bus. Productivity goes down, sick days go up, great employees jump ship, and morale descends into a gut-wrenching spiral.</p>
 
@@ -400,7 +400,7 @@
                                                         <p><strong>Breakout Session</strong></p>
                                                         <p><strong>Relatable Workplace</strong><br>
                                                             Rachel DeAlto<br>
-                                                            Relationship and Communications Expert, Media Pedrsonality and Consultant</p>
+                                                            Relationship and Communications Expert, Media Personality and Consultant</p>
                                                         <p>Take a deeper dive into what it means to create a relatable workplace. Drawing from Rachel DeAlto’s proprietary personality assessment, attendees will learn their social superpower, their relatability index, and how to use that knowledge to connect more effectively with their teams and members. Creating a relatable workplace is about much more than being friendly or approachable, it’s about fully understanding and customizing your interactions with each person you encounter. This session will assist leaders in enhancing their capacity to connect with people, develop better connections, and establish a more supportive workplace.</p>
                                                     </td>
                                                 </tr>
