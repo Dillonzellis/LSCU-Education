@@ -296,7 +296,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td>5:00 p.m. - 6:30 p.m.</td>
-                                                    <td>Exhibit Hall Grand Opening Reception</td>
+                                                    <td>Exhibit Hall Grand Opening Reception sponsored by CUNA Mutual Group</td>
                                                 </tr>
                                                 <tr>
                                                     <td>&nbsp;</td>
@@ -324,13 +324,13 @@
                                                 <tr>
                                                     <td>7:45 a.m. - 8:30 a.m.</td>
                                                     <td>
-                                                        <p><em>Breakfast</em></p>
+                                                        <p><em>Breakfast sponsored by Corporate America</em></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
                                                     <td>8:30 a.m. - 10:00 a.m.</td>
                                                     <td>
-                                                        <p><strong>General Session</strong></p>
+                                                        <p><strong>General Session sponsored by Deluxe</strong></p>
                                                         <p><strong>Inspiring a Relatable Workforce</strong><br>
                                                             Rachel DeAlto<br>
                                                             Relationship and Communications Expert, Media Pedrsonality and Consultant</p>
@@ -416,7 +416,7 @@
                                                     <td>1:30 p.m. - 2:30 p.m.</td>
                                                     <td>
                                                         <p><strong>Breakout Session</strong></p>
-                                                        <p><strong>How to Win Business Operating Relationships</strong><br>
+                                                        <p><strong>How to Win Business Operating Relationships sponsored by Tru Treasury</strong><br>
                                                             John Ballantyne<br>
                                                             CEO, TRU TREASURY</p>
                                                         <p>During this season, John Ballanytne, CEO of Tru Treasury, will lead a discussion in about Credit Union's and treasury management services. He will discuss elements of a successful treasury program, including best practices for treasury sales process, pipeline management and program success measures.</p>
