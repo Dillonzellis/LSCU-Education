@@ -168,6 +168,8 @@
                                 <div class="accordion_in two">
                                     <div class="acc_head">Agenda</div>
                                     <div class="acc_content">
+										
+										<p align="center"><a class="sh-btn sh-btn-border blue sh-btn-small sh-btn-round" style="margin-top: 15px;" href="docs/SLDC-Booklet.pdf" target="_blank">Printable Agenda</a></p>
 
                                         <p><strong>Wednesday, August 31st</strong></p>
                                         <table class="table table-striped">
@@ -231,7 +233,7 @@
                                                         <p><strong>A Crash Course in CU Management: The Playbook for 2023 and Beyond</strong><br>
                                                             Ancin Cooley, CIA, CISA<br>
                                                             Founder and Principal of Synergy Credit Union Consulting, Inc.</p>
-                                                        <p>The credit union game is changing and teh strategies that got us to this point are no longer viable options. In this timely session, Ancin Cooley wiht Synergy Credit Union Consulting will give you a peek inside the playbooks of some of the most successful credit unions in the US.</p>
+                                                        <p>The credit union game is changing and the strategies that got us to this point are no longer viable options. In this timely session, Ancin Cooley with Synergy Credit Union Consulting will give you a peek inside the playbooks of some of the most successful credit unions in the US.</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -241,7 +243,7 @@
                                                         <p><strong>Cryptocurrency 101</strong><br>
                                                             David Pace<br>
                                                             Manager of Regulatory Advocacy, LSCU &amp; Affiliates</p>
-                                                        <p>In Cryptocurrency 101 David Pace will be explaining the basics of what cryptocurrency is, how it is being used and how it is changing the financial landscape. This session is for all those who know very little about cyptocurrency and are looking to get the foundational knowledge they need to start exploring it. </p>
+                                                        <p>In Cryptocurrency 101 David Pace will be explaining the basics of what cryptocurrency is, how it is being used and how it is changing the financial landscape. This session is for all those who know very little about cryptocurrency and are looking to get the foundational knowledge they need to start exploring it. </p>
                                                     </td>
                                                 </tr>
 
@@ -409,7 +411,7 @@
                                                         <p><strong>Purpose, Productivity, and Progress: The New Blueprint for Career Fulfillment</strong><br>
                                                             Ancin Cooley, CIA, CISA<br>
                                                             Founder and Principal of Synergy Credit Union Consulting, Inc.</p>
-                                                        <p>Purpose drives productivity. Productivity drives progess. In this uplifting session, Ancin Cooley wiht Synergy Credit Union Consulting, will discuss strategies how to reach your financial goals without sacrificing your personal mission and values.</p>
+                                                        <p>Purpose drives productivity. Productivity drives progress. In this uplifting session, Ancin Cooley with Synergy Credit Union Consulting, will discuss strategies how to reach your financial goals without sacrificing your personal mission and values.</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -644,6 +646,7 @@
                                         <p>Your Registration includes Swag Bag, Light Breakfast, unlimited beer and sodas, 2 cocktail drink tickets, a Grab & Go Lunch, and automatic entry into the Putting Contest.</p>
 
                                         <p>Club rentals are $45 per person and paid directly to the golf club the morning of the tournament. No shoe rental available.</p>
+
 
                                     </div>
                                 </div>
