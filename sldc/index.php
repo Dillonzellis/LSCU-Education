@@ -168,8 +168,8 @@
                                 <div class="accordion_in two">
                                     <div class="acc_head">Agenda</div>
                                     <div class="acc_content">
-										
-										<p align="center"><a class="sh-btn sh-btn-border blue sh-btn-small sh-btn-round" style="margin-top: 15px;" href="docs/SLDC-Booklet.pdf" target="_blank">Printable Agenda</a></p>
+
+                                        <p align="center"><a class="sh-btn sh-btn-border blue sh-btn-small sh-btn-round" style="margin-top: 15px;" href="docs/SLDC-Booklet.pdf" target="_blank">Printable Agenda</a></p>
 
                                         <p><strong>Wednesday, August 31st</strong></p>
                                         <table class="table table-striped">
@@ -194,7 +194,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td>8:00 a.m. - 12:00 p.m.</td>
-                                                    <td>Southeast Credt Union Foundation (SECUF) Charity Golf Tournament/Shot Gun Start</td>
+                                                    <td>Southeast Credit Union Foundation (SECUF) Charity Golf Tournament/Shot Gun Start</td>
                                                 </tr>
                                                 <tr>
                                                     <td>9:00 a.m. - 5:30 p.m.</td>
@@ -277,7 +277,7 @@
                                                     <td>
                                                         <p><strong>Breakout Session</strong></p>
                                                         <p><strong>Contact Center - Improve Member Experience and Security without Compromises</strong><br>
-                                                            Milind Borkar<br>
+                                                            Dr. Milind Borkar<br>
                                                             Founder & CEO, Illuma</p>
                                                         <p>An exploration of the challenge with meeting expectations for streamlined, welcoming credit union contact center interactions, the current threat landscape for fraud/account takeovers, and how to balance risk mitigation with member experience.</p>
                                                     </td>
@@ -321,7 +321,7 @@
                                             <tbody>
                                                 <tr>
                                                     <td>7:45 a.m. - 3:00 p.m.</td>
-                                                    <td>Welcome Center/Regitration Open</td>
+                                                    <td>Welcome Center/Registration Open</td>
                                                 </tr>
                                                 <tr>
                                                     <td>7:45 a.m. - 8:30 a.m.</td>
@@ -337,7 +337,7 @@
                                                             Rachel DeAlto<br>
                                                             Relationship and Communications Expert, Media Personality and Consultant</p>
 
-                                                        <p>Zoomed in. Checked out. Engaging and connecting a far-flung workfplace and is on the top of every company’s to-do list. Or, at least, it should be, because whenever teams feel overwhelmed, underserved, and misunderstood, the wheels start to come off the bus. Productivity goes down, sick days go up, great employees jump ship, and morale descends into a gut-wrenching spiral.</p>
+                                                        <p>Zoomed in. Checked out. Engaging and connecting a far-flung workplace and is on the top of every company’s to-do list. Or, at least, it should be, because whenever teams feel overwhelmed, under-served, and misunderstood, the wheels start to come off the bus. Productivity goes down, sick days go up, great employees jump ship, and morale descends into a gut-wrenching spiral.</p>
 
                                                         <p>Connect your teams to the most powerful tool they have for finding happiness, meaning, productivity, and success: each other.</p>
 
@@ -543,7 +543,7 @@
 
                                         <div class="list-style-2">
                                             <div class="icon"><i class="fa fa-angle-right"></i></div>
-                                            <div class="text">Hote room reservation can be changed or cancelled up to 5 days prior to arrival. If reservation is canceled within the 5 days prior to arrival, one night's room fee will be charged</div>
+                                            <div class="text">Hotel room reservation can be changed or cancelled up to 5 days prior to arrival. If reservation is canceled within the 5 days prior to arrival, one night's room fee will be charged</div>
                                         </div>
                                         <!--end item-->
 
@@ -562,7 +562,7 @@
                                 <div class="accordion_in two">
                                     <div class="acc_head">Sponsorship Opportunities</div>
                                     <div class="acc_content">
-                                        <p>Sponsorship opportunities are available for this event under page 22-23 of our <a href="https://www.lscu.coop/about/opportunities.php" target="_blank">Sponsorship Kit</a>. For sponsoship inquiries please contact <a href="mailto:sponsorshipandexhibits@lscu.coop">sponsorshipandexhibits@lscu.coop</a>.</p>
+                                        <p>Sponsorship opportunities are available for this event under page 22-23 of our <a href="https://www.lscu.coop/about/opportunities.php" target="_blank">Sponsorship Kit</a>. For sponsorship inquiries please contact <a href="mailto:sponsorshipandexhibits@lscu.coop">sponsorshipandexhibits@lscu.coop</a>.</p>
 
                                     </div>
                                 </div>
