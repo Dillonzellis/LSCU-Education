@@ -415,16 +415,6 @@
                                                     </td>
                                                 </tr>
                                                 <tr>
-                                                    <td>1:30 p.m. - 2:30 p.m.</td>
-                                                    <td>
-                                                        <p><strong>Breakout Session</strong></p>
-                                                        <p><strong>How to Win Business Operating Relationships sponsored by Tru Treasury</strong><br>
-                                                            John Ballantyne<br>
-                                                            CEO, TRU TREASURY</p>
-                                                        <p>During this season, John Ballanytne, CEO of Tru Treasury, will lead a discussion in about Credit Union's and treasury management services. He will discuss elements of a successful treasury program, including best practices for treasury sales process, pipeline management and program success measures.</p>
-                                                    </td>
-                                                </tr>
-                                                <tr>
                                                     <td>2:30 p.m. - 2:45 p.m.</td>
                                                     <td>
                                                         <p>Break</p>
@@ -452,7 +442,7 @@
                                                 </tr>
                                                 <tr>
                                                     <td>8:00 p.m. - 10:00 p.m.</td>
-                                                    <td>Southeast Credit Union Foundation (SECUF) &amp; LSCU PAC Networking Event</td>
+                                                    <td>Endless Summer Party <em>sponsored by</em> Corporate One</td>
                                                 </tr>
                                             </tbody>
 
