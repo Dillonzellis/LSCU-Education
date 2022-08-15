@@ -65,7 +65,7 @@
             color: #ffffff;
             font-family: Arial;
             font-size: 17px;
-            padding: 16px 31px;
+            padding: 16px 25px;
             text-decoration: none;
         }
 
@@ -151,7 +151,7 @@
                         </p>
                         <p align="center">Open to credit union CEOs, C-Suite executives, leadership, young professionals, and volunteers of credit unions. This conference is designed to provide leaders with thought-provoking topics and ideas they can use. SLDC is perfect for anyone looking for motivation, inspiration, and information targeted to assist credit union leaders.</p>
 
-                        <p align="center"><a class="myButton" href="https://na.eventscloud.com/681114" target="_blank">Credit Union Attendees & Guest Registration</a> &nbsp;&nbsp;&nbsp;&nbsp;<a class="myButton" href="https://na.eventscloud.com/ereg/index.php?eventid=681114&categoryid=4418309" target="_blank">Walking Exhibitor Registration</a></p>
+                        <p align="center"><a class="myButton" href="https://na.eventscloud.com/681114" target="_blank">Credit Union Attendees & Guest Registration</a> &nbsp;&nbsp;<a class="myButton" href="https://na.eventscloud.com/ereg/index.php?eventid=681114&categoryid=4418309" target="_blank">Walking Exhibitor Registration</a></p>
 
                         <!--<p align="center"><a class="myButton" href="https://na.eventscloud.com/681114" target="_blank">Credit Union Attendees & Guest Registration</a> &nbsp;&nbsp;&nbsp;&nbsp;<a class="myButton" href="https://na.eventscloud.com/ebooth/sponsor.php?eventid=681114&t=f450798a000237e9ade63c3d57195bca" target="_blank">Exhibitor Registration</a></p>-->
 
@@ -244,6 +244,16 @@
                                                             David Pace<br>
                                                             Manager of Regulatory Advocacy, LSCU &amp; Affiliates</p>
                                                         <p>In Cryptocurrency 101 David Pace will be explaining the basics of what cryptocurrency is, how it is being used and how it is changing the financial landscape. This session is for all those who know very little about cryptocurrency and are looking to get the foundational knowledge they need to start exploring it. </p>
+                                                    </td>
+                                                </tr>
+												
+												<tr>
+                                                    <td>2:00 p.m. - 3:00 p.m.</td>
+                                                    <td>
+                                                        <p><strong>Breakout Session</strong></p>
+                                                        <p><strong>Are you ready for rising rates?<br>The new Tightening Cycle in 150 BPS in...</strong><br>
+                                                            Seth Kellicut and Bryan Bell<br>
+                                                            Manager of Regulatory Advocacy, LSCU &amp; Affiliates</p>
                                                     </td>
                                                 </tr>
 
@@ -348,7 +358,7 @@
                                                 <tr>
                                                     <td>10:00 a.m. - 10:30 a.m.</td>
                                                     <td>
-                                                        <p><em>Break</em></p>
+                                                        <p><em>Break sponsored by Deluxe</em></p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -382,6 +392,25 @@
                                                     <td>11:45 a.m. - 1:15 p.m.</td>
                                                     <td>
                                                         <p><strong>Advocacy Lunch</strong></p>
+                                                        <p>Rep. Chip Brown (R-Hollinger's Island)</p>
+														<p>Rep. Brown was elected to the House of Representatives in 2018. He served on local and state Republican Executive Committees and on the staff for the former Speaker of the Alabama House Jimmy Clark.</p>
+														
+														<p>Brown’s district covers the southern most portions of Mobile County, including Dauphin Island. He resides on Hollinger’s Island with his wife, Aimee and their son.</p>
+														
+														<p>Rep. Brown is Mobile County’s only legislator holding a seat on the House Insurance Committee. There Brown has sponsored legislation and promoted policies intended to lower insurance premiums for Gulf Coast residents.  He also serves on the House Economic Development and Tourism, Urban and Rural Development, and Mobile County Legislation committees.</p>
+														
+													  <p>Rep. Brown is a former member of the Alabama National Guard. Brown was deployed overseas with U.S. Central Command in support of Operation Iraqi Freedom and also served as a military advisor for the NATO-International Security Assistance Force and U.S. Forces Afghanistan during two deployments to Afghanistan.</p>
+														
+														<p>He is currently employed as a commercial realtor and entrepreneur and is a lifelong resident of South Alabama and lives on Hollinger’s Island, Alabama where he lives with his wife, Aimee and their son.</p>
+														<p>Rep. Alan Baker (R-Brewton)</p>
+														
+														<p>Representative Alan Baker was elected to the Alabama House of Representatives in 2006.  He was born in Brewton on July 15, 1956, graduated from T.R. Miller High School in Brewton, received an A.A. degrees from East Central Community College in Decatur, Mississippi and received his B.S. degree from Auburn University in 1978 with a major in history and a minor in political science.</p>
+														
+														<p>Representative Baker devoted 27 years to public education, first as a teacher-coach in Phenix City, and later returning home to Brewton where he taught history and coached football and track at T.R. Miller High School. During his tenure as coach, Representative Baker amassed 10 state championships, five for football and five for track. For his accomplishments, he was honored by being selected and inducted into the Alabama High School Athletic Association Sports Hall of Fame in 2008.</p>
+														
+														<p>He retired from public education in 2005 and now dedicates his full-time energies as a member of the Alabama House of Representatives to provide active and accessible legislative service for his Baldwin and Escambia County district, which includes portions of several municipalities.  He currently serves as the Vice Chairman of the House Rules Committee, Vice Chairman of the Education Policy Committee, and a member of the Baldwin County Legislation, Joint Transportation Committee, Permanent Joint Legislative Committee on Energy Policy and Ways and Means Education Committees.</p>
+														
+														<p>Rep. Baker is married to his high school sweetheart, Kaki Stokes Baker, who is a retired teacher and a realtor. They attend First Baptist Church of Brewton where he is an instrumentalist in the Praise Band.</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -392,6 +421,10 @@
                                                             Greg McClellan<br>
                                                             Administrator, Alabama Credit Union Administration</p>
                                                         <p>Greg McClellan, Administrator, Alabama Credit Union Administration, will give a presentation on current Alabama state regulatory issues for credit unions and take questions from the audience.</p>
+                                                        <p>Jeff Russell<br>
+Bank Examinations Coordinator for the Alabama Credit Union Administration</p>
+														
+														<p>Jeff holds a B.S. Business Administration / Finance & Economics from the University of South Alabama and Auburn University Montgomery.  He has 21 years’ experience in the credit union regulatory arena with the state of Alabama plus 3 years with the National Credit Union Administration (NCUA).  In addition, he has roughly 9 years of experience serving in various positions, including collections, commercial lending, branch management, and credit review, in the banking, credit union, and financial services industry.  He is also a NASCUS Certified State Credit Union Supervisor.</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -647,13 +680,21 @@
                                     <div class="acc_content">
                                         <p align="center"><img src="imgs/DeluxeLogo.jpg" width="235" height="55" alt="" /></p>
                                         <p align="center">&nbsp;</p>
-                                        <p align="center"><img src="imgs/Corporate-America-CU-Logo.png" width="278" height="71" alt="" /></p>
+                                        <p align="center"><img src="imgs/Corporate-America-CU-Logo.png" width="278" height="71" alt="Corporate America" /></p>
                                         <p align="center">&nbsp;</p>
-                                        <p align="center"><img src="imgs/tru-treasury.jpg" width="200" height="61" alt="" /></p>
+                                        <p align="center"><img src="imgs/tru-treasury.jpg" width="200" height="61" alt="Tru Treasury" /></p>
                                         <p align="center">&nbsp;</p>
-                                        <p align="center"><img src="imgs/cm_vert_4c_nounit.jpg" width="248" height="105" alt="" /></p>
+                                        <p align="center"><img src="imgs/cm_vert_4c_nounit.jpg" width="248" height="105" alt="CUNA Mutual Group" /></p>
                                         <p align="center">&nbsp;</p>
-                                        <p align="center"><img src="imgs/Corporate One FCU Logo.png" width="306" height="109" alt="" /></p>
+                                        <p align="center"><img src="imgs/Corporate One FCU Logo.png" width="306" height="109" alt="Corporate One" /></p>
+										<p align="center">&nbsp;</p>
+                                        <p align="center"><img src="imgs/oppenheimer.jpg" width="272" height="55" alt="Oppenheimer" /></p>
+										<p align="center">&nbsp;</p>
+                                        <p align="center"><img src="imgs/FHLBA-logo.jpg" width="306" height="109" alt="FHL Bank Atlanta" /></p>
+										<p align="center">&nbsp;</p>
+                                        <p align="center"><img src="imgs/LEVERAGE-logo.jpg" width="364" height="85" alt="LEVERAGE" /></p>
+										<p align="center">&nbsp;</p>
+                                        <p align="center"><img src="imgs/STS-Group Logo-01.png" width="359" height="67" alt="STS Group" /></p>
 
                                     </div>
                                 </div>
@@ -884,6 +925,61 @@
 
                                         <p>Joel Schwartzberg is the Senior Director of Strategic and Executive Communications for a major nonprofit in New York City and also teaches communication and presentation skills to clients including American Express, State Farm Insurance, Blue Cross Blue Shield, Comedy Central, and the Brennan Center for Justice. Joel’s books include “The Language of Leadership: How to Engage and Inspire Your Team” and “Get to the Point! Sharpen Your Message and Make Your Words Matter” and his articles appear in Harvard Business Review, Fast Company, CNBC, Inc.com, and Toastmaster Magazine. A frequent conference presenter and workshop leader, Joel is also a former national champion public speaker and collegiate speech coach.</p>
                                         </p>
+
+                                    </div>
+                                </div>
+						
+						<div class="accordion_in two">
+                                    <div class="acc_head">Jeff Russell</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/jeff-russell.png" alt="Jeff Russell" width="136" height="180"><br>
+<strong>Bank Examinations Coordinator for the Alabama Credit Union Administration</strong>
+                                        </p>
+
+                                        <p>Jeff holds a B.S. Business Administration / Finance & Economics from the University of South Alabama and Auburn University Montgomery.  He has 21 years’ experience in the credit union regulatory arena with the state of Alabama plus 3 years with the National Credit Union Administration (NCUA).  In addition, he has roughly 9 years of experience serving in various positions, including collections, commercial lending, branch management, and credit review, in the banking, credit union, and financial services industry.  He is also a NASCUS Certified State Credit Union Supervisor.</p>
+                                        </p>
+
+                                    </div>
+                                </div>
+
+				
+				<div class="accordion_in two">
+                                    <div class="acc_head">Rep. Chip Brown</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/chip-brown.jpg" alt="Chip Brown" width="159" height="163"><br>
+<strong>Representative (R-Hollinger's Island)</strong>
+                                      </p>
+
+                                        <p>Rep. Brown was elected to the House of Representatives in 2018. He served on local and state Republican Executive Committees and on the staff for the former Speaker of the Alabama House Jimmy Clark.</p>
+										
+										<p>Brown’s district covers the southern most portions of Mobile County, including Dauphin Island. He resides on Hollinger’s Island with his wife, Aimee and their son.</p>
+										
+										<p>Rep. Brown is Mobile County’s only legislator holding a seat on the House Insurance Committee. There Brown has sponsored legislation and promoted policies intended to lower insurance premiums for Gulf Coast residents.  He also serves on the House Economic Development and Tourism, Urban and Rural Development, and Mobile County Legislation committees.</p>
+										
+										<p>Rep. Brown is a former member of the Alabama National Guard. Brown was deployed overseas with U.S. Central Command in support of Operation Iraqi Freedom and also served as a military advisor for the NATO-International Security Assistance Force and U.S. Forces Afghanistan during two deployments to Afghanistan.</p>
+										
+										<p>He is currently employed as a commercial realtor and entrepreneur and is a lifelong resident of South Alabama and lives on Hollinger’s Island, Alabama where he lives with his wife, Aimee and their son.</p>
+
+                                    </div>
+                                </div>
+				
+				<div class="accordion_in two">
+                                    <div class="acc_head">Rep. Alan Baker</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="imgs/alan-baker.png" alt="Alan Baker" width="173" height="240"><br>
+<strong>Representative (R-Brewton)</strong>
+                                      </p>
+
+                                        <p>Representative Alan Baker was elected to the Alabama House of Representatives in 2006.  He was born in Brewton on July 15, 1956, graduated from T.R. Miller High School in Brewton, received an A.A. degrees from East Central Community College in Decatur, Mississippi and received his B.S. degree from Auburn University in 1978 with a major in history and a minor in political science.</p>
+										
+										<p>Representative Baker devoted 27 years to public education, first as a teacher-coach in Phenix City, and later returning home to Brewton where he taught history and coached football and track at T.R. Miller High School. During his tenure as coach, Representative Baker amassed 10 state championships, five for football and five for track. For his accomplishments, he was honored by being selected and inducted into the Alabama High School Athletic Association Sports Hall of Fame in 2008.</p>
+										
+										<p>He retired from public education in 2005 and now dedicates his full-time energies as a member of the Alabama House of Representatives to provide active and accessible legislative service for his Baldwin and Escambia County district, which includes portions of several municipalities.  He currently serves as the Vice Chairman of the House Rules Committee, Vice Chairman of the Education Policy Committee, and a member of the Baldwin County Legislation, Joint Transportation Committee, Permanent Joint Legislative Committee on Energy Policy and Ways and Means Education Committees.</p>
+										
+										<p>Rep. Baker is married to his high school sweetheart, Kaki Stokes Baker, who is a retired teacher and a realtor. They attend First Baptist Church of Brewton where he is an instrumentalist in the Praise Band.</p>
 
                                     </div>
                                 </div>
