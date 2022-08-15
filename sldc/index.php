@@ -491,6 +491,7 @@
                                                     <td>11:45 a.m. - 1:15 p.m.</td>
                                                     <td>
                                                         <p><strong>Advocacy Lunch</strong></p>
+
                                                         <p>Katie Boyd Britt</p>
 
                                                         <p>Katie began her career after graduating with a degree in
@@ -534,6 +535,38 @@
                                                             play in the NFL for the New England Patriots. The family
                                                             attends First
                                                             United Methodist Church</p>
+
+
+
+                                                        <p>Rep. Chip Brown (R-Hollinger's Island)</p>
+                                                        <p>Rep. Brown was elected to the House of Representatives in
+                                                            2018. He served on local and state Republican Executive
+                                                            Committees and on the staff for the former Speaker of the
+                                                            Alabama House Jimmy Clark.</p>
+
+                                                        <p>Brown’s district covers the southern most portions of Mobile
+                                                            County, including Dauphin Island. He resides on Hollinger’s
+                                                            Island with his wife, Aimee and their son.</p>
+
+                                                        <p>Rep. Brown is Mobile County’s only legislator holding a seat
+                                                            on the House Insurance Committee. There Brown has sponsored
+                                                            legislation and promoted policies intended to lower
+                                                            insurance premiums for Gulf Coast residents. He also serves
+                                                            on the House Economic Development and Tourism, Urban and
+                                                            Rural Development, and Mobile County Legislation committees.
+                                                        </p>
+
+                                                        <p>Rep. Brown is a former member of the Alabama National Guard.
+                                                            Brown was deployed overseas with U.S. Central Command in
+                                                            support of Operation Iraqi Freedom and also served as a
+                                                            military advisor for the NATO-International Security
+                                                            Assistance Force and U.S. Forces Afghanistan during two
+                                                            deployments to Afghanistan.</p>
+
+                                                        <p>He is currently employed as a commercial realtor and
+                                                            entrepreneur and is a lifelong resident of South Alabama and
+                                                            lives on Hollinger’s Island, Alabama where he lives with his
+                                                            wife, Aimee and their son.</p>
 
                                                         <p>Rep. Alan Baker (R-Brewton)</p>
 
@@ -1116,7 +1149,7 @@
                                 </div>
 
                                 <div class="accordion_in two">
-                                    <div class="acc_head">Samantha Beeler</div>
+                                    <div class="acc_head"> Beeler</div>
                                     <div class="acc_content">
 
                                         <p><img src="imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171"
