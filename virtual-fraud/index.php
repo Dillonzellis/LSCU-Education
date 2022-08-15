@@ -266,8 +266,7 @@
 
 
                                         </table>
-                                        <small><em>All event cancellations will incur to a nonrefundable $10.00
-                                                administrative fee.</em></small>
+
 
 
                                     </div>
@@ -280,9 +279,11 @@
 
                     </div>
                     <!--end right column-->
-
+                    <small><em>All event cancellations will incur to a nonrefundable $10.00
+                            administrative fee.</em></small>
                 </div>
             </div>
+
         </section>
         <!-- end section -->
         <div class="clearfix"></div>
