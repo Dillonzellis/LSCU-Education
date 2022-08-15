@@ -561,6 +561,7 @@
                                                             service for his Baldwin and Escambia County district, which
                                                             includes portions of several municipalities. He currently
                                                             serves as the Vice Chairman of the House Rules Committee,
+
                                                             Vice Chairman of the Education Policy Committee, and a
                                                             member of the Baldwin County Legislation, Joint
                                                             Transportation Committee, Permanent Joint Legislative
@@ -1118,8 +1119,8 @@
                                     <div class="acc_head">Samantha Beeler</div>
                                     <div class="acc_content">
 
-                                        <p><img src="../imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171"
-                                                height="230"><br>
+                                        <p><img src="imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171"
+                                                height="auto"><br>
                                             <strong>President of the LSCU & Affiliates</strong>
                                         </p>
 
