@@ -450,7 +450,8 @@
                                                 <tr>
                                                     <td>10:30 a.m. - 11:30 a.m.</td>
                                                     <td>
-                                                        <p>CEO Roundtable (All Asset Sizes)</p>
+                                                        <p>CEO Roundtable (All Asset Sizes) Facilitated by Samantha
+                                                            Beeler</p>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -709,7 +710,7 @@
                                                             fit for organizations experiencing transition or in a season
                                                             of intense change. You'll learn how to recognize
                                                             opportunities in road blocks and how to see dead ends as new
-                                                            beginnings. Because the differene between success and
+                                                            beginnings. Because the difference between success and
                                                             failure is not luck, it's looking at your world in a whole
                                                             new way! So come ready to spark some new ideas - and grab
                                                             onto them.</p>
@@ -1109,6 +1110,38 @@
                                             Doctorate of Business and Masters of Science in Professional Counseling from
                                             Georgia State University and her Bachelor of Arts degree in Psychology from
                                             Susquehanna University.</p>
+
+                                    </div>
+                                </div>
+
+                                <div class="accordion_in two">
+                                    <div class="acc_head">Samantha Beeler</div>
+                                    <div class="acc_content">
+
+                                        <p><img src="../imgs/samantha-beeler.jpg" alt="Samantha Beeler" width="171"
+                                                height="230"><br>
+                                            <strong>President of the LSCU & Affiliates</strong>
+                                        </p>
+
+                                        <p>Samantha Beeler serves as President of the LSCU & Affiliates. She previously
+                                            served as Vice President of Advocacy for the Northwest Credit Union
+                                            Association (NWCUA) which is the regional trade association for credit
+                                            unions in Washington, Oregon and Idaho. </p>
+
+                                        <p>In her role, Samantha is responsible for advocacy, compliance, legal and
+                                            member engagement. Prior to working for the NWCUA, she led communications
+                                            for a Government Contracts Practice group in Washington, D.C. </p>
+
+                                        <p>Samantha grew up in Alabama and lived in Georgia. Samantha received her
+                                            bachelor’s degree in Social Science from Washington State University and
+                                            also did an emersion program in International Relations at Peking University
+                                            in Beijing, China. She has participated in Executive Education at Harvard’s
+                                            Kennedy School of Government.
+                                        </p>
+
+                                        <p>Samantha and her husband Garrett, who is a member of U.S. Special Forces,
+                                            have three daughters Aryan (6 yrs. old), Alanna (3 yrs. old) and Adaire (9
+                                            months).</p>
 
                                     </div>
                                 </div>
