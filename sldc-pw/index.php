@@ -167,6 +167,25 @@
             </div>
             <!--end item-->
 
+            <div class="list-style-2">
+              <div class="icon"><i class="fa fa-angle-right"></i></div>
+              <div class="text"><a href="./docs/The Fed at the Crossroads.pdf" target="_blank">The Fed at the Crossroads</a></div>
+            </div>
+            <!--end item-->
+            
+            <div class="list-style-2">
+              <div class="icon"><i class="fa fa-angle-right"></i></div>
+              <div class="text"><a href="./docs/Improving Adaptability, Grit and Resiliency to Maximize Performance.pdf" target="_blank">Improving Adaptability, Grit and Resiliency to Maximize Performance</a></div>
+            </div>
+            <!--end item-->
+            
+            <div class="list-style-2">
+              <div class="icon"><i class="fa fa-angle-right"></i></div>
+              <div class="text"><a href="./docs/Improving Adaptability, Grit and Resiliency to Maximize Performance Handout.pdf" target="_blank">Improving Adaptability, Grit and Resiliency to Maximize Performance Handout</a></div>
+            </div>
+            <!--end item-->
+
+
 
           </div>
           <!--end right column-->
